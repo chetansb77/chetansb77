@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **chetansb77/chetansb77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👷‍♂️ Passionate software engineer with around 5 years of experience in developing Full Stack Web Applications
-
+- 👷🏻‍♂️ Passionate Software Engineer with around 5 years of experience in developing Full Stack Web Applications
+- 💪🏻 Expertise lies in creating robust, scalable, and user-friendly applications that cater to the specific needs of my clients.
+- ☁ Cloud certified engineer in Azure
