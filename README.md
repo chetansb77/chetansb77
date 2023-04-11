@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👷‍♂️ Passionate software engineer with around 5 years of experience in developing Full Stack Web Applications
+
