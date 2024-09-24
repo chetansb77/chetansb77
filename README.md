@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👷🏻‍♂️ Passionate Software Engineer with around 5 years of experience in developing Full Stack Web Applications
+- 👷🏻‍♂️ Passionate Software Engineer with around 6 years of experience in developing Full Stack Web Applications
 - 💪🏻 Expertise lies in creating robust, scalable, and user-friendly applications that cater to the specific needs of my clients.
 - ☁ Cloud Certified Engineer in Azure & AWS
